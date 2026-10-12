@@ -13,7 +13,8 @@ s1141846
 
 ## 我的照片
 
-![我的照片](![alt text](file:///Users/qiying/Downloads/my%20photo.jpg))
+![我的照片](my%20photo.jpg)
+
 ## 興趣
 -看書
 -拍照
